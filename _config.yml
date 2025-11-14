@@ -13,7 +13,7 @@ title                    : "Chris"
 title_separator          : "-"
 name                     : &name "Ziye Guo"
 description              : &description "personal description"
-url                      : https://modes-hkustgz.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://github.com/ChrisYZZ/Chris.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #baseurl                  : "/MODES-TR.github.io"
 #repository               : "academicpages/academicpages.github.io"
@@ -216,28 +216,28 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
   group:
-    output: false
+    output: true
     permalink: /:collection/:path/
   updates:
-    output: false
+    output: true
     permalink: /:collection/:path/
   experience:
-    output: false
+    output: true
     permalink: /:collection/:path/
   resources:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
