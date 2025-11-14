@@ -9,15 +9,15 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About PI"
+title                    : "Chris"
 title_separator          : "-"
-name                     : &name "Xiaotong Sun"
+name                     : &name "Ziye Guo"
 description              : &description "personal description"
 url                      : https://modes-hkustgz.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #baseurl                  : "/MODES-TR.github.io"
 #repository               : "academicpages/academicpages.github.io"
-repository               : "MODES-TR/MODES-TR.github.io"
+repository               : "ChrisYZZ/Chris.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,13 +25,13 @@ repository               : "MODES-TR/MODES-TR.github.io"
 author:
   # Biographic information
   avatar           : "Xiaotong_Portrait_2019-683x1024.png"
-  name             : "Xiaotong Sun"
-  pronouns         : # example: "she/her"  
-  bio              : "Xiaotong Sun is an assistant professor in the Intelligent Transportation Thrust (Guangzhou Campus)"
-  location         : "Rm 513 W1, HKUST(GZ), Nansha, Guangzhou"
+  name             : "Ziye Guo"
+  pronouns         : # example: "he/his"  
+  bio              : "Ziye Guo is a research assistant in the Intelligent Transportation Thrust (Guangzhou Campus)"
+  location         : "HKUST(GZ), Nansha, Guangzhou"
   employer         : "HKUST(GZ)"
   uri              : # URL
-  email            : " xtsun@ust.hk" 
+  email            : "chrisyz1996@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
