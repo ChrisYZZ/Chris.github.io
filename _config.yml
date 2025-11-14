@@ -13,10 +13,8 @@ title                    : "Chris"
 title_separator          : "-"
 name                     : &name "Ziye Guo"
 description              : &description "personal description"
-url                      : https://ChrisYZZ.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "Chris.github.io" # the subpath of your site, e.g. "/blog"
-#baseurl                  : "/MODES-TR.github.io"
-#repository               : "academicpages/academicpages.github.io"
+url: "https://chrisyzz.github.io"
+baseurl: "/Chris.github.io"  # 匹配仓库名，作为子路径
 repository               : "ChrisYZZ/Chris.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
