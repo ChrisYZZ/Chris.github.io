@@ -22,7 +22,7 @@ repository               : "ChrisYZZ/Chris.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /images/chris.png
+  avatar           : "chris.png"
   name             : "Ziye Guo"
   pronouns         : # example: "he/his"  
   bio              : "Ziye Guo is a research assistant in the Intelligent Transportation Thrust (Guangzhou Campus)"
